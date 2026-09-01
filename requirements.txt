@@ -1,0 +1,9 @@
+chromadb==1.0.16
+tiktoken==0.9.0
+transformers==4.54.0
+editdistance==0.8.1
+scipy==1.16.1
+torch==2.7.1
+loguru==0.7.3
+fire==0.7.0
+scikit-learn==1.7.1
